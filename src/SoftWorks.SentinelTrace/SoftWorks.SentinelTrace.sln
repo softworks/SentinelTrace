@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36107.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftWorks.SentinelTrace", "SoftWorks.SentinelTrace\SoftWorks.SentinelTrace.csproj", "{42C68FF5-C150-4250-BDA4-84E72B0D024C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftWorks.SentinelTrace.Tests", "..\SoftWorks.SentinelTrace.Tests\SoftWorks.SentinelTrace.Tests\SoftWorks.SentinelTrace.Tests.csproj", "{6859BF0A-54B4-4D25-A068-44B7B39C0EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C68FF5-C150-4250-BDA4-84E72B0D024C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C68FF5-C150-4250-BDA4-84E72B0D024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C68FF5-C150-4250-BDA4-84E72B0D024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C68FF5-C150-4250-BDA4-84E72B0D024C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6859BF0A-54B4-4D25-A068-44B7B39C0EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6859BF0A-54B4-4D25-A068-44B7B39C0EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6859BF0A-54B4-4D25-A068-44B7B39C0EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6859BF0A-54B4-4D25-A068-44B7B39C0EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F66947-AFF7-42F1-83AD-E5075D7E8ACE}
+	EndGlobalSection
+EndGlobal

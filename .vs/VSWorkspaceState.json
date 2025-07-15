@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\docs",
+    "\\src",
+    "\\src\\SoftWorks.SentinelTrace",
+    "\\src\\SoftWorks.SentinelTrace.Tests",
+    "\\src\\SoftWorks.SentinelTrace\\SoftWorks.SentinelTrace"
   ],
-  "SelectedNode": "\\src\\Softworks.SentinelTrace",
+  "SelectedNode": "\\src\\SoftWorks.SentinelTrace\\SoftWorks.SentinelTrace.sln",
   "PreviewInSolutionExplorer": false
 }

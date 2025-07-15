@@ -1,18 +1,27 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+using SoftWorks.SentinelTrace;
+using SoftWorks.SentinelTrace.Tests.Helpers;
 
 namespace SoftWorks.SentinelTrace.Tests
 {
     [TestClass]
-    public class TraceTests
+    public class TraceTests : TraceTestBase
     {
-        [TestMethod]
-        public void CanInitializeTaskLogger()
+        [TestInitialize]
+        public void Init()
         {
-            using (var trace = new LogicalTaskLogger("TestSubsystem"))
-            {
-                trace.Debug("🔍 Test trace active", LogGrade.Minimal);
-                Assert.IsNotNull(trace);
+            // 🔧 Set log path prefix for this test class
+            log4net.GlobalContext.Properties["LogName"] = "SentinelTrace.TraceTests";
+        }
+
+        [TestMethod]
+        public void CanEmitStartMarker()
+        {
+            using (var trace = GetTestLogger("ClockDirection"))
+            { 
+                trace.Debug("🟢 Begin test trace", LogGrade.Structured);
+
+                Assert.IsTrue(trace.TraceId.Length == 8);
             }
         }
     }
