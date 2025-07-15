@@ -1,0 +1,9 @@
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\obj\Debug\SoftWorks.SentinelTrace.csproj.CoreCompileInputs.cache
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\bin\Debug\SoftWorks.SentinelTrace.dll
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\bin\Debug\SoftWorks.SentinelTrace.pdb
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\bin\Debug\log4net.dll
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\bin\Debug\log4net.pdb
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\bin\Debug\log4net.xml
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\obj\Debug\SoftWorks.SentinelTrace.csproj.CopyComplete
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\obj\Debug\SoftWorks.SentinelTrace.dll
+F:\SoftWorks\SentinelTrace\src\Softworks.SentinelTrace\SoftWorks.SentinelTrace\SoftWorks.SentinelTrace\obj\Debug\SoftWorks.SentinelTrace.pdb
